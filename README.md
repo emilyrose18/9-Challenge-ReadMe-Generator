@@ -1,10 +1,10 @@
-# project1
+# 9-Challenge-ReadMe-Generator
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
   
-  this is my project.
+  This is a a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
   
   ## Table of Contents 
   
@@ -30,16 +30,12 @@
   
   ## Usage
   
-  do it correctly
-  
+  This is challenge 9 of the columbia bootcamp
+
   ## License
     
     This project is licensed under the MIT license.
     
-  ## Contributing
-  
-  undefined
-  
   ## Tests
   
   To run tests, run the following command:
@@ -50,4 +46,8 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at emilyramirez218@gmail..com. You can find more of my work at [emilyrose18](https://github.com/emilyrose18/).
+  If you have any questions about the repo, open an issue or contact me directly at emilyramirez218@gmail.com. You can find more of my work at [emilyrose18](https://github.com/emilyrose18/).
+
+
+  ## Walkthrough Video
+https://drive.google.com/file/d/1JhoEhTX09jp5yG_rsZ2TTthqYWJfW7FW/view 
